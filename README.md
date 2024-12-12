@@ -46,8 +46,8 @@ This project implements an AI-driven VTuber personality that can interact in Twi
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/YourUsername/YourRepoName.git
-   cd YourRepoName
+   git clone [https://github.com/Freedom4x4/twitch-ai-chatbot.git]
+   cd twitch-ai-chatbot
    ```
 
 2. **Install Requirements**
