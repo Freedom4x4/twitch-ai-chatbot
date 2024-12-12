@@ -1,4 +1,4 @@
-```markdown
+
 # AI VTuber Project - Twitch and Discord Integrated Chatbot
 
 **Description:**  
