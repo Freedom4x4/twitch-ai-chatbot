@@ -1,0 +1,9 @@
+openai
+google-cloud-texttospeech
+twitchio
+nextcord
+obs-websocket-py
+sounddevice
+scipy
+numpy
+PyNaCl
