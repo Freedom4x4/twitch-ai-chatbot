@@ -41,6 +41,8 @@ This project implements an AI-driven VTuber personality that can interact in Twi
 
 5. **Twitch OAuth Token**  
    - Obtain a bot OAuth token from [Twitch Token Generator] [https://twitchtokengenerator.com/] or from the Twitch Developer docs.
+   - 
+   - Ensure the bot has Chat:Read and Chat:Edit Permissions
    - Format should be: `oauth:xxxxxxxxxxxxxxxxxx`
 
 6. **Discord Bot Token**  
