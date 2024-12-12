@@ -40,7 +40,7 @@ This project implements an AI-driven VTuber personality that can interact in Twi
    Sign up or log in at [OpenAI](https://platform.openai.com/) to get your API key.
 
 5. **Twitch OAuth Token**  
-   - Obtain a bot OAuth token from [Twitch Token Generator]([https://twitchtokengenerator.com/]) or from the Twitch Developer docs.
+   - Obtain a bot OAuth token from [Twitch Token Generator] [https://twitchtokengenerator.com/] or from the Twitch Developer docs.
    - Format should be: `oauth:xxxxxxxxxxxxxxxxxx`
 
 6. **Discord Bot Token**  
